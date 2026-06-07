@@ -1,0 +1,1 @@
+Code RFID đang gọi SPI.begin() để chiếm bộ Hardware SPI mặc định. vậy nên hãy setup màn hình TFT sang Software SPI để màn hình không bị trắng xoá
